@@ -1,0 +1,1 @@
+# com480-week-2-javascript-basics-solved
